@@ -1,0 +1,479 @@
+{
+  "intents": [
+    {
+      "tag": "joke",
+      "patterns": [
+        "tell me a joke",
+        "joke",
+        "tell me a joke please",
+        "joke please",
+        "give me a joke",
+        "share a joke",
+        "tell me something funny",
+        "make me laugh"
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why was the math book sad? Because it had too many problems.",
+        "Why don't seagulls fly over the bay? Because then they'd be called bagels!",
+        "What's a skeleton's least favorite room in the house? The living room.",
+        "Why did the scarecrow win an award? Because he was outstanding in his field.",
+        "Why couldn't the bicycle stand up by itself? It was two-tired.",
+        "Why couldn't the tomato turn red? Because it saw the salad dressing!",
+        "Why did the tomato turn red? Because it saw the onion in its skin!",
+        "Why did the tomato turn red? Because it was embarrassed to be seen in a fruit salad!",
+        "Why don't eggs tell jokes? Because they might crack up!",
+        "Why did the chicken go to the séance? To talk to the other side!",
+        "Why did the tomato turn red? Because it saw the salad dressing!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why do birds make great detectives? Because they have hawk eyes!",
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why don't fish like to play basketball? Because they're afraid of the net!",
+        "Why don't skeletons fight each other? They don't have the guts!",
+        "Why do cows have hooves instead of feet? Because they lactose!",
+        "Why couldn't the bicycle stand up by itself? It was two-tired!",
+        "Why did the golfer bring an extra pair of pants? In case he got a hole in one!",
+        "Why did the tomato turn red? Because it saw the salad dressing!",
+        "Why was the math book sad? Because it had too many problems!",
+        "Why don't seagulls fly over the bay? Because then they'd be called bagels!",
+        "What's a skeleton's least favorite room in the house? The living room!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why couldn't the tomato turn red? Because it saw the onion in its skin!",
+        "Why did the tomato turn red? Because it was embarrassed to be seen in a fruit salad!",
+        "Why don't eggs tell jokes? Because they might crack up!"
+      ]
+    },
+
+    {
+      "tag": "programs",
+      "patterns": [
+        "what programs do you offer",
+        "what programs can I choose from",
+        "what programs are there",
+        "what plans can I choose from",
+        "what offerings do you have",
+        "what are the pricing options"
+      ],
+      "responses": [
+        "At ZyNov, we offer 3 plans for our customers: Pioneer, Explorer, and Adventurer. Each of these plans come with different levels of training, duration, destinations, and costs. For more information, check out <a href=\"https://zynov.web.app/index.html#programs\">each of our programs</a>."
+      ]
+    },
+    {
+      "tag": "safety",
+      "patterns": [
+        "what are the safety protocols",
+        "is space travel safe",
+        "do you follow rules and regulations from NASA",
+        "what measures do you take to keep things safe",
+        "how do you ensure customer safety",
+        "what safety precautions do you have in place",
+        "tell me about your safety measures",
+        "are there any safety regulations for space travel",
+        "what safety training do customers receive",
+        "do you have safety certifications",
+        "what kind of safety equipment do you provide",
+        "can you guarantee the safety of customers",
+        "what is your approach to safety",
+        "what safety guidelines do you follow",
+        "do you conduct safety inspections",
+        "how do you handle emergencies in space"
+      ],
+      "responses": [
+        "ZyNov's #1 priority is always customer safety. We make sure to take months to provide our customers with extensive training before they head to space. This includes obtaining a license from the FAA, strength training, buoyancy training, VR training, and training on equipment usage. For more information, check out <a href=\"https://zynov.com/safety.html/\">our safety policies</a>."
+      ]
+    },
+
+    {
+      "tag": "health",
+      "patterns": [
+        "what health risks am I taking",
+        "what diseases could I get",
+        "are there any health risks associated with space travel",
+        "what are the health repercussions I could face",
+        "what precautions should I take for my health during space travel",
+        "how can I recover from the trip",
+        "what is the recovery process like",
+        "what are the post-trip health considerations",
+        "are there any long-term health effects of space travel",
+        "what health guidelines do you provide for travelers",
+        "do you offer any post-trip health support",
+        "what should I do to maintain my health during and after space travel",
+        "what medical facilities are available during the trip",
+        "what are the potential health risks in space"
+      ],
+      "responses": [
+        "When taking part in space travel, there are many possible health reprocussions. This can include severe radiation exposure, isolation, and a compromised immune system. However, there are various measures that ZyNov takes to help customers recover and mitigate these effects. More information in the Health and Recover sections <a href=\"https://zynov.com/safety.html/\">here</a>."
+      ]
+    },
+    {
+      "tag": "vehicles",
+      "patterns": [
+        "What vehicles are operated by ZyNov?",
+        "Which spacecraft will be used for the trip?",
+        "What rocket ships does ZyNov offer?",
+        "Tell me about the rockets used by ZyNov.",
+        "What space shuttle options are available?",
+        "Can you tell me more about the spacecraft used by ZyNov?",
+        "What types of rockets are used by ZyNov?",
+        "Do you have different options for space shuttles?",
+        "What are the spacecraft used for ZyNov's space travel programs?",
+        "Tell me about the rocket technologies employed by ZyNov.",
+        "What spacecraft or rocket technologies are used by ZyNov for space travel?",
+        "Are there any unique features or capabilities of the vehicles used by ZyNov?",
+        "Can you provide specifications or details about ZyNov's spacecraft or rockets?",
+        "What safety measures or technologies are in place in ZyNov's vehicles?",
+        "Are there any requirements or qualifications for passengers traveling in ZyNov's vehicles?",
+        "Can I request any specific vehicle or spacecraft for my travel with ZyNov?",
+        "Is there any training or preparation provided for passengers using ZyNov's vehicles?",
+        "What are the environmental considerations or sustainability efforts in ZyNov's vehicle operations?",
+        "Are there any limitations or restrictions for using ZyNov's vehicles?",
+        "What are the costs or fees associated with ZyNov's vehicles for space travel?",
+        "How can I inquire about or book a specific vehicle for my ZyNov trip?",
+        "Is there any post-trip feedback or support provided for ZyNov's vehicles?",
+        "Tell me about any partnerships or collaborations ZyNov has for vehicle technologies.",
+        "What are the future plans or upgrades for ZyNov's vehicles?"
+      ],
+      "responses": [
+        "ZyNov currently offers 5 spacecrafts: the Boeing CST-100 Starliner, SpaceX Crew Dragon, Russian Soyuz MS, Blue Origin New Shepard, and the Airbus A300 Zero-G. More information about these vehicles can be found in our <a href=\"https://zynov.com/index.html#vehicles\">vehicles section</a>."
+      ]
+    },
+    {
+      "tag": "destinations",
+      "patterns": [
+        "Where do I fly to with ZyNov?",
+        "Which destinations can I go to with ZyNov?",
+        "Can I orbit Earth with ZyNov?",
+        "Can I travel to Mars with ZyNov?",
+        "Can I visit the Moon with ZyNov?",
+        "Which planets are included in ZyNov's travel destinations?",
+        "What destinations are offered by ZyNov?",
+        "Tell me about the available travel destinations with ZyNov.",
+        "What celestial bodies can I explore with ZyNov?",
+        "What are the options for interplanetary travel with ZyNov?",
+        "What are the current and future destinations in ZyNov's travel itinerary?",
+        "Can you provide information about ZyNov's space travel destinations?",
+        "Are there any unique features or experiences offered in ZyNov's travel destinations?",
+        "What are the travel packages or itineraries available for ZyNov's destinations?",
+        "Can I customize my travel itinerary with ZyNov?",
+        "What are the requirements or qualifications for traveling to ZyNov's destinations?",
+        "Are there any restrictions or limitations for visiting ZyNov's destinations?",
+        "What safety measures or protocols are in place for ZyNov's space travel?",
+        "Can I book a trip to ZyNov's destinations online?",
+        "What is the duration or timeline for ZyNov's travel to different destinations?",
+        "What are the costs or fees associated with traveling to ZyNov's destinations?",
+        "How can I contact ZyNov for booking or further information about destinations?",
+        "Is there any pre-departure or post-trip support provided by ZyNov?",
+        "What are the cancellation or refund policies for ZyNov's travel bookings?"
+      ],
+      "responses": [
+        "ZyNov allows customers 3 different destinations. Customers can go into orbit around the Earth, land on the Moon, or land on Mars. This depends on the program the customer chooses to enroll in. More information can be found <a href=\"https://zynov.com/index.html#destinations\">here</a>."
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "Who are you?",
+        "What is ZyNov?",
+        "Tell me about your company.",
+        "What is your mission?",
+        "What is your vision?",
+        "What are your goals?",
+        "Can you provide citations for your information?",
+        "Tell me more about the company.",
+        "Tell me about the founders of ZyNov.",
+        "What is the history of ZyNov?",
+        "What does ZyNov do?",
+        "What are the products or services offered by ZyNov?",
+        "How long has ZyNov been in business?",
+        "What sets ZyNov apart from other companies?",
+        "What are the core values of ZyNov?",
+        "What is ZyNov's target market?",
+        "What are the achievements or milestones of ZyNov?",
+        "Can you provide information about the team behind ZyNov?",
+        "What is ZyNov's approach to innovation?",
+        "What are ZyNov's future plans or expansion strategies?",
+        "What are ZyNov's social responsibility initiatives?",
+        "Can you provide references or testimonials about ZyNov's products or services?",
+        "How can I contact ZyNov for more information?"
+      ],
+      "responses": [
+        "ZyNov is a space travel company that aims to make space travel accessible to everyone. We are a team of 2 students that are passionate about space tourism and want to make it a reality. For more information, check out our <a href=\"https://zynov.com/about.html\">about page</a>."
+      ]
+    },
+    {
+      "tag": "signup",
+      "patterns": [
+        "how do I sign up?",
+        "how to enroll?",
+        "where can I pay?",
+        "register for a program",
+        "how do I join ZyNov?",
+        "what are the steps to sign up?",
+        "sign-up process",
+        "enrollment procedure",
+        "registration instructions",
+        "how can I create an account?",
+        "what information do I need to provide to sign up?",
+        "is there a registration fee?",
+        "what are the prerequisites for joining?",
+        "can I sign up online?",
+        "do I need to fill out a form to register?",
+        "how long does it take to complete the signup process?",
+        "are there any documents required for enrollment?",
+        "what are the payment options for signing up?",
+        "do I need to provide personal information to register?",
+        "what are the benefits of signing up?",
+        "is there an age requirement for enrollment?",
+        "can I sign up for multiple programs at once?",
+        "what happens after I submit my registration form?",
+        "how can I check the status of my signup?",
+        "what are the terms and conditions for signing up?",
+        "how do I cancel my registration?",
+        "what if I encounter issues during the signup process?"
+      ],
+      "responses": [
+        "You can enroll for a program on our <a href=\"https://zynov.com/sign-up.html\">Sign Up</a> page."
+      ]
+    },
+    {
+      "tag": "pioneer",
+      "patterns": [
+        "What is the pioneer program?",
+        "What is the pioneer plan?",
+        "What does the pioneer plan offer?",
+        "How long is the pioneer program?",
+        "What is included in the pioneer plan?",
+        "Does the pioneer plan provide any benefits?",
+        "Tell me more about the pioneer program.",
+        "can you tell me about your pioneer program?",
+        "What are the features of the pioneer plan?",
+        "How does the pioneer program work?",
+        "Can you explain the pioneer plan in detail?",
+        "What are the advantages of the pioneer plan?",
+        "Are there any special requirements for the pioneer program?",
+        "How can I apply for the pioneer plan?",
+        "Is the pioneer plan available to everyone?",
+        "What are the eligibility criteria for the pioneer program?",
+        "How much does the pioneer plan cost?",
+        "Are there any discounts or promotions for the pioneer plan?",
+        "What are the payment options for the pioneer program?",
+        "Is there a trial period for the pioneer plan?",
+        "Are there any limitations or restrictions with the pioneer program?",
+        "What support or resources are provided with the pioneer plan?",
+        "Can I upgrade or downgrade my plan within the pioneer program?",
+        "What are the cancellation or refund policies for the pioneer plan?",
+        "How can I contact customer support for the pioneer program?"
+      ],
+      "responses": [
+        "The Pioneer program is a 3 month program that includes basic astronaut training, fundamentals of space science, and results in preparation for entry-level positions in the space industry. For more information, check out our <a href=\"https://zynov.com/programs.html?pg=0\">Pioneer program</a>."
+      ]
+    },
+    {
+      "tag": "explorer",
+      "patterns": [
+        "What is the explorer program?",
+        "What is the explorer plan?",
+        "What does the explorer plan offer?",
+        "How long is the explorer program?",
+        "What is included in the explorer plan?",
+        "Does the explorer plan provide any benefits?",
+        "Tell me more about the explorer program.",
+        "can you tell me about your explorer program?",
+        "What are the features of the explorer plan?",
+        "How does the explorer program work?",
+        "Can you explain the explorer plan in detail?",
+        "What are the advantages of the explorer plan?",
+        "Are there any special requirements for the explorer program?",
+        "How can I apply for the explorer plan?",
+        "Is the explorer plan available to everyone?",
+        "What are the eligibility criteria for the explorer program?",
+        "How much does the explorer plan cost?",
+        "Are there any discounts or promotions for the explorer plan?",
+        "What are the payment options for the explorer program?",
+        "Is there a trial period for the explorer plan?",
+        "Are there any limitations or restrictions with the explorer program?",
+        "What support or resources are provided with the explorer plan?",
+        "Can I upgrade or downgrade my plan within the explorer program?",
+        "What are the cancellation or refund policies for the explorer plan?",
+        "How can I contact customer support for the explorer program?"
+      ],
+      "responses": [
+        "The Explorer program is a 6 month program that includes intermediate astronaut training, advanced instruction in space science, extensive hands on training, and results in preparation for intermediate-level positions in the space industry. For more information, check out our <a href=\"https://zynov.com/programs.html?pg=1\">Explorer program</a>."
+      ]
+    },
+    {
+      "tag": "adventurer",
+      "patterns": [
+        "What is the adventurer program?",
+        "What is the adventurer plan?",
+        "What does the adventurer plan offer?",
+        "How long is the adventurer program?",
+        "What is included in the adventurer plan?",
+        "Does the adventurer plan provide any benefits?",
+        "Tell me more about the adventurer program.",
+        "can you tell me about your adventurer program?",
+        "What are the features of the adventurer plan?",
+        "How does the adventurer program work?",
+        "Can you explain the adventurer plan in detail?",
+        "What are the advantages of the adventurer plan?",
+        "Are there any special requirements for the adventurer program?",
+        "How can I apply for the adventurer plan?",
+        "Is the adventurer plan available to everyone?",
+        "What are the eligibility criteria for the adventurer program?",
+        "How much does the adventurer plan cost?",
+        "Are there any discounts or promotions for the adventurer plan?",
+        "What are the payment options for the adventurer program?",
+        "Is there a trial period for the adventurer plan?",
+        "Are there any limitations or restrictions with the adventurer program?",
+        "What support or resources are provided with the adventurer plan?",
+        "Can I upgrade or downgrade my plan within the adventurer program?",
+        "What are the cancellation or refund policies for the adventurer plan?",
+        "How can I contact customer support for the adventurer program?"
+      ],
+      "responses": [
+        "The Adventurer program is a 9 month program that includes high intensity astronaut training, comprehensive instruction in all aspects of space, realistic simulations of spaceflight scenarios, extensive physical and mental conditions, and results in preparation for a full time career in the space industry. For more information, check out our <a href=\"https://zynov.com/programs.html?pg=2\">Adventurer program</a>."
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello"],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?",
+        "Hey, how's it going?",
+        "Greetings!",
+        "Hiya! How may I assist you?",
+        "Hello, it's a pleasure to connect with you!",
+        "Good day! How can I make your day special?",
+        "Yo! What can I do for you today?",
+        "Hi, it's a privilege to be of service to you!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thank you",
+        "thanks",
+        "thank you so much",
+        "thanks so much",
+        "appreciate it",
+        "much obliged",
+        "thank you very much",
+        "thanks a lot",
+        "thank you kindly",
+        "grateful"
+      ],
+      "responses": [
+        "You're welcome! I'm glad I could help.",
+        "You're most welcome! If you need further assistance, feel free to ask.",
+        "No problem at all! If you have any more questions, feel free to ask.",
+        "You're welcome! It's my pleasure to assist you.",
+        "Glad I could be of help! If you need anything else, feel free to ask.",
+        "You're welcome! Don't hesitate to reach out if you have more inquiries.",
+        "You're welcome! I'm here to help.",
+        "You're most welcome! Let me know if there's anything else I can do for you.",
+        "Not a problem at all! Happy to assist.",
+        "You're welcome! I'm always here to help you out."
+      ]
+    },
+    {
+      "tag": "how are you",
+      "patterns": [
+        "How are you",
+        "What's up",
+        "How are you doing",
+        "Sup",
+        "How's it going",
+        "What's going on",
+        "How's your day",
+        "How are you today",
+        "What's happening",
+        "Wassup",
+        "Watsup",
+        "How's life",
+        "How's everything",
+        "How's your day going"
+      ],
+      "responses": [
+        "Hey, I'm doing fine!",
+        "Yo, I'm doing great!",
+        "Hey, I'm tired",
+        "I'm functioning optimally!",
+        "I'm here and ready to assist you!",
+        "I'm doing well, thank you for asking!",
+        "I'm just a computer program, but I'm always ready to help!",
+        "I'm good, thank you! How can I assist you today?",
+        "I'm ready to chat with you!",
+        "I'm here and ready to answer your questions!",
+        "I'm doing fantastic! How about you?",
+        "I'm here to help you with anything you need!",
+        "I'm functioning perfectly, thank you for asking!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "cya",
+        "see you later",
+        "goodbye",
+        "i am leaving",
+        "bye",
+        "quit",
+        "take care",
+        "farewell",
+        "catch you later",
+        "see ya",
+        "later",
+        "adios",
+        "cheers",
+        "have to go",
+        "see you soon",
+        "off I go",
+        "till we meet again"
+      ],
+      "responses": [
+        "Sad to see you go.",
+        "Talk to you later.",
+        "Goodbye!",
+        "Take care!",
+        "Farewell!",
+        "See you soon!",
+        "Until next time!",
+        "Safe travels!",
+        "Have a great day!",
+        "Goodbye, and have a nice day!",
+        "Bye-bye!",
+        "Adios!",
+        "Catch you later!",
+        "Have a good one!",
+        "Take it easy!",
+        "Goodbye! Don't hesitate to come back if you have more questions!",
+        "Alright, see you later!",
+        "Goodbye! It was nice talking to you!",
+        "Wishing you all the best!",
+        "See you around!"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name",
+        "what should I call you",
+        "what's your name",
+        "what's yo name",
+        "name"
+      ],
+      "responses": [
+        "Hi, you can call me ZyNov.",
+        "I'm ZyNov!",
+        "I am ZyNov. How may I assist you?",
+        "My name is ZyNov.",
+        "You can call me ZyNov.",
+        "ZyNov is the name!",
+        "I go by the name ZyNov.",
+        "ZyNov at your service!"
+      ]
+    }
+  ]
+}
